@@ -1,2 +1,2 @@
 # Yug123
-Class work repository
+Class work Yug
